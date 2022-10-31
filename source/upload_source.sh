@@ -1,5 +1,5 @@
 mkdr fancyApi
 
-cd jobapi
+cd source 
 
 zip ../fancyApi/source.zip requirements.txt

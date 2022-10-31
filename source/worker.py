@@ -30,8 +30,8 @@ def getJob(id):
             return job
     raise HTTPException(status_code=404, detail="Job with id" + id + "not found")
 
-    if _name_ =="_worker_":
-        uvicorn.run(app, host="0.0.0.0", port=80)
+if __name__ =="_worker_":
+    uvicorn.run(app, host="0.0.0.0", port=80)
 
 
 

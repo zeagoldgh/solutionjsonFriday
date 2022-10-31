@@ -1,4 +1,4 @@
 .DS_Store
 .terraform*
 __pycache__*
-/*_venv
+*_venv
