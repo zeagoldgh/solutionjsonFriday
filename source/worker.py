@@ -16,6 +16,11 @@ jobs = [{
         "id": "uniqueId3",
         "title": "programmer",
         "description": "program management"
+    },
+    {
+        "id": "uniqueId4",
+        "title": "mechanic",
+        "description": "fixing of cars"
     }]
 
 
